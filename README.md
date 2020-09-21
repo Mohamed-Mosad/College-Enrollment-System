@@ -34,7 +34,7 @@ Java With SQL Database
     - Add New Schedule
       - In This Tab The Admin Can Manage The Time And The Lecture And Fixed The Schedule And Modified Any Thing In It If There Where Any New Coming.
     
-    ![admin_Add Schedule](Add Schedule.png)
+    ![admin_Add Schedule](Add%20Schedule.png)
   
     - Report
       - This Report Can Give You An Overview About All Information In The Data Base Like The Data Of The Student ,The Courses ,And The Schedule Management.
