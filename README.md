@@ -13,7 +13,7 @@ Java With SQL Database
   - 1.Admin
   - 2.Student
  
-![Log in](img/sign_in.PNG)
+![Log in](Log in.png)
 
 - First : The Admin.
 
@@ -24,22 +24,22 @@ Java With SQL Database
     - Add New Student
       - In This Tab The Admin Can Add New Student Information And Then He Can Modified It If There Where Any Error In The Data And He Can Delete The Data If He Want.
     
-    ![admin_student](img/New_Student.PNG)
+    ![admin_student](admin_student.png)
   
     - Add New Course
       - In This Tab The Admin Can Add New Course Data And He Can Search About The Course To Modified It And Remove It If He Didn’t Need It Any More. 
     
-    ![admin_Add Course](img/New_course.PNG)
+    ![admin_Add Course](Lecture.png)
   
     - Add New Schedule
       - In This Tab The Admin Can Manage The Time And The Lecture And Fixed The Schedule And Modified Any Thing In It If There Where Any New Coming.
     
-    ![admin_Add Schedule](img/new_schedule.PNG)
+    ![admin_Add Schedule](Add Schedule.png)
   
     - Report
       - This Report Can Give You An Overview About All Information In The Data Base Like The Data Of The Student ,The Courses ,And The Schedule Management.
     
-    ![admin_Report](img/report.PNG)
+    ![admin_Report](Report.png)
     
 - Second : Student
 
@@ -50,14 +50,14 @@ Java With SQL Database
     - Student Information
       - The Student Can Check His Data Which Was Added By The Admin.
     
-      ![Student_info](img/my_info.PNG) 
+      ![Student_info](ShowStudent.png) 
       
     - Student Course
       - In This Tab The Student Can Check All The Courses That He Will Study In The Current Term.
       
-      ![Student_course](img/My_Courses.PNG)
+      ![Student_course](lec stud.png)
       
     - Student Schedule
       - In This Tab The Student Can Know The Date Of The Exams And The Duration Of The Every Subject.
       
-      ![Student_Schedule](img/my_schedule.PNG)
+      ![Student_Schedule](Schedule.png)
