@@ -55,7 +55,7 @@ Java With SQL Database
     - Student Course
       - In This Tab The Student Can Check All The Courses That He Will Study In The Current Term.
       
-      ![Student_course](lec stud.png)
+      ![Student_course](lecstud.png)
       
     - Student Schedule
       - In This Tab The Student Can Know The Date Of The Exams And The Duration Of The Every Subject.
